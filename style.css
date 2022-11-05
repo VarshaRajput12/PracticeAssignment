@@ -416,6 +416,10 @@ footer p {
   main .mainContainer1 .btn2 {
     display: none;
   }
+  
+  .mainContainer2{
+    margin-left: 15%;
+  }
 
   .mainContainer2 .img {
     width: 250px;
